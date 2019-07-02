@@ -1,5 +1,5 @@
 # Secrets
-<p>A Full Stack Web Application in which user can post anonymously a message.
+<p>A Full Stack Web Application in which the user can post a message anonymously.
 It has Salt and Hashing based user login/register system. 
 Also, it demonstrates the use of Passport.js which allows the user to Sign In/Up by Google authentication. 
 The application is built using EJS at frontend and Node.js & MongoDB at the backend.</p>
