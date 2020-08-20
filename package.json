@@ -9,7 +9,7 @@
   "author": "Hitesh",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body": "^5.1.0",
     "dotenv": "^8.0.0",
     "ejs": "^2.6.2",
